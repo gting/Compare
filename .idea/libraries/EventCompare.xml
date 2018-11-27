@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EventCompare">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/EventCompare_jar/EventCompare.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

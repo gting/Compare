@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alarm/Alarm.iml" filepath="$PROJECT_DIR$/Alarm/Alarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompareData/CompareData.iml" filepath="$PROJECT_DIR$/CompareData/CompareData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DriverBehavior2/DriverBehavior2.iml" filepath="$PROJECT_DIR$/DriverBehavior2/DriverBehavior2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DutyCycle/DutyCycle.iml" filepath="$PROJECT_DIR$/DutyCycle/DutyCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventCompare/EventCompare.iml" filepath="$PROJECT_DIR$/EventCompare/EventCompare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FuweiNum/FuweiNum.iml" filepath="$PROJECT_DIR$/FuweiNum/FuweiNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LockReport/LockReport.iml" filepath="$PROJECT_DIR$/LockReport/LockReport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestKmx/TestKmx.iml" filepath="$PROJECT_DIR$/TestKmx/TestKmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TmnlParam/TmnlParam.iml" filepath="$PROJECT_DIR$/TmnlParam/TmnlParam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Track/Track.iml" filepath="$PROJECT_DIR$/Track/Track.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Alarm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Alarm_jar/Alarm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

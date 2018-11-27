@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TestKmx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/TestKmx_jar/TestKmx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TmnlParam">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/TmnlParam_jar/TmnlParam.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
